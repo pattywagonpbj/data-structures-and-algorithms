@@ -16,6 +16,8 @@ const addOne = (arr) => {
   return newArr;
 };
 
+// Collaborated with Kassie, Aloysious, Alexander w.
+
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 2
 
